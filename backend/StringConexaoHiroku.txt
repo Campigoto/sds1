@@ -1,0 +1,15 @@
+postgres://
+
+Usuário:  zhuahlisygpnlj
+Senha:    1c0d6f4d15573315334aaf06f342c30b287d552cbdbcec2544246e0b7e2f0f46
+Servidor: ec2-54-86-57-171.compute-1.amazonaws.com
+Porta:    5432
+Base:     d4c3g7flbdcu6h
+
+
+
+postgres://zhuahlisygpnlj
+        :1c0d6f4d15573315334aaf06f342c30b287d552cbdbcec2544246e0b7e2f0f46
+        @ec2-54-86-57-171.compute-1.amazonaws.com
+        :5432
+        /d4c3g7flbdcu6h
